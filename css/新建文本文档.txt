@@ -1,0 +1,6 @@
+您的站点在构建时出现问题：您的SCSS文件css / main.scss在第18行出现错误：“ ... 5，255，0）52％）”之后的CSS无效：预期为“ {”，为“;”。有关更多信息，请参见
+
+Your site is having problems building: Your SCSS file css/main.scss has an error on line 18: Invalid CSS after "...5, 255, 0) 52%)": expected "{", was ";". For more information, see
+
+
+您的网站在构建时遇到问题：您的SCSS文件css / main.scss在第57行出现错误：“}”之后的CSS无效：期望的选择器或规则为“}”。有关更多信息，请参见
