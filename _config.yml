@@ -8,7 +8,7 @@
 # Site settings网站设定
 title: nwz
 brief-intro: 一切有为法 如梦幻泡影
-baseurl: "https://nengwuzhi.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nengwuzhi.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
