@@ -9,7 +9,7 @@
 title: nwz
 brief-intro: 一切有为法 如梦幻泡影
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nengwuzhi.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
