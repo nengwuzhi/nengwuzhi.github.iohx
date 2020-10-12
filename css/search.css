@@ -14,14 +14,18 @@ p {
 }
 
 /* 重置Webkit搜索输入浏览器样式 */
-input {
-	outline: none;
-}
 input[type=search] {
-	
-	font-family: inherit;
-	font-size: 100%;
+-webkit-appearance: textfield;
+-webkit-box-sizing: content-box;
+font-family: inherit;
+font-size: 100%;
 }
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+display: none;
+}
+
+
 
 
 /* 搜索输入字段 */
